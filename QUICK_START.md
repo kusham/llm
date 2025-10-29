@@ -12,7 +12,7 @@ Get the agent system running in 5 minutes!
 
 ```bash
 # 1. Install dependencies
-yarn install
+yarn installajsd
 
 # 2. Start Weaviate vector database
 docker-compose up -d weaviate
